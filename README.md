@@ -1,4 +1,8 @@
 # InventoryAndClients-Manager
+
+Live demo at: https://ikproject1.web.app/
+
+
 React &amp; Redux with Firestore database -  web app to manage retail's inventory and customers.
 
 Technologies Used: 
